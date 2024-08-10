@@ -9,13 +9,13 @@ Welcome to MaldivesTV Live Streamer! This project allows you to easily access li
 
 ## Current Channels
 1. **Raajje TV**  
-   M3U8 Link: [Raajje TV Stream](https://stream.raajje.mv/live/rtv_live/index.m3u8)
+   M3U8 Link: [https://stream.raajje.mv/live/rtv_live/index.m3u8](https://stream.raajje.mv/)
    
 2. **Maldives TV**  
-   M3U8 Link: [Maldives TV Stream](https://live.maldivestv.mv/hls/stream/index.m3u8)
+   M3U8 Link: [https://live.maldivestv.mv/hls/stream/index.m3u8](https://maldivestv.mv/)
    
 3. **SSTV**  
-   M3U8 Link: [SSTV Stream](https://sstv.ssplay.mv/hls/sstv-live/index.m3u8)
+   M3U8 Link: [https://sstv.ssplay.mv/hls/sstv-live/index.m3u8](https://stream.sun.mv/)
 
 ## Installation
 
